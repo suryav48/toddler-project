@@ -1,0 +1,53 @@
+button {
+    background-color:rgb(169, 169, 194);
+    color: pink;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+    opacity: 0.9;
+  }
+
+  
+  button:hover {
+    opacity:1;
+  }
+
+.one {
+    margin-bottom: 1cm;
+    height: 1.7cm;
+    background-color: aliceblue;
+  }
+  .two {
+    margin-bottom: 1cm;
+    height: 1.7cm;
+    background-color: aliceblue;
+  }
+  
+  .three {
+    margin-bottom: 1cm;
+    height: 1.7cm;
+    background-color: aliceblue;
+  }
+  
+  .four {
+    margin-bottom: 1cm;
+    height: 1.7cm;
+    background-color: aliceblue;
+  }
+
+  .five {
+    margin-bottom: 1cm;
+    height: 1.7cm;
+    background-color: aliceblue;
+  }
+
+  .six {
+    margin-bottom: 1cm;
+    height: 1.7cm;
+    background-color: aliceblue;
+  }
+  button:hover {
+    opacity:1;
+  }
